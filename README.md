@@ -38,4 +38,22 @@ This project implements a simple "Hello World" API and a web interface for inter
 ### Create a Virtual Environment
 ```bash
 python3 -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+source venv/bin/activate 
+```
+
+
+### Frontend (React App)
+1. **Node.js** (16+ recommended): Install Node.js and npm (comes bundled with Node.js) from [Node.js official website](https://nodejs.org/).
+
+   ```bash
+   sudo apt install -y nodejs
+
+2. Verify Node.js Installation: Check that Node.js and npm were installed successfully.
+   ```bash
+   node -v
+   npm -v
+   
+3.Install React dependencies: Navigate to your frontend folder and install dependencies.
+   ```bash
+   cd frontend
+   npm install
