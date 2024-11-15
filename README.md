@@ -27,5 +27,14 @@ This project implements a simple "Hello World" API and a web interface for inter
 ## Setup Instructions
 
 ### Step 1: Clone the Repository
+   ```bash
+   git clone <https://github.com/surajw141/hello-world-api.git>
+   cd hello-world-app
+
+
+## 2. Set Up the Backend (Flask API)
+
+### Create a Virtual Environment
 ```bash
-git clone <https://github.com/surajw141/hello-world-api.git>
+python3 -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
