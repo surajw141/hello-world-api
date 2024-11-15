@@ -30,7 +30,7 @@ This project implements a simple "Hello World" API and a web interface for inter
    ```bash
    git clone <https://github.com/surajw141/hello-world-api.git>
    cd hello-world-app
-   ~~~
+   ```
 
 
 ## 2. Set Up the Backend (Flask API)
