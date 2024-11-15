@@ -35,12 +35,13 @@ This project implements a simple "Hello World" API and a web interface for inter
 
 ## 2. Set Up the Backend (Flask API)
 
-### Create a Virtual Environment and get flask
+### Create a Virtual Environment, get flask and run the API
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 pip3 install flask flask-cors python-dotenv
 pip3 install requests
+python3 hello_world_api.py
 ```
 
 
