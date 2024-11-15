@@ -57,5 +57,6 @@ pip3 install requests
    
 3. Install React dependencies: Navigate to your frontend folder and install dependencies.
    ```bash
-   cd frontend
+   cd hello-world-app
    npm install
+   npm start
