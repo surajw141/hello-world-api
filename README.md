@@ -53,7 +53,7 @@ source venv/bin/activate
    node -v
    npm -v
    
-3.Install React dependencies: Navigate to your frontend folder and install dependencies.
+3. Install React dependencies: Navigate to your frontend folder and install dependencies.
    ```bash
    cd frontend
    npm install
