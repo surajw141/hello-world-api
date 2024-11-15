@@ -17,10 +17,11 @@ This project implements a simple "Hello World" API and a web interface for inter
 2. **Flask**: A Python web framework to run the API server.
 3. **Flask-CORS** (optional): If you plan to deploy the frontend and backend separately, this will enable Cross-Origin Resource Sharing (CORS).
 
+
 ### Frontend (React App)
 1. **Node.js** (16+ recommended): Install Node.js and npm (comes bundled with Node.js) from [Node.js official website](https://nodejs.org/).
-```bash
-sudo apt install -y nodejs
+   ```bash
+   sudo apt install -y nodejs
 
 
 ## Setup Instructions
@@ -28,4 +29,3 @@ sudo apt install -y nodejs
 ### Step 1: Clone the Repository
 ```bash
 git clone <https://github.com/surajw141/hello-world-api.git>
-
